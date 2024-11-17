@@ -24,7 +24,7 @@ Also, generate a video of the cameras overlaid with the bounding boxes of vehicl
 
 First, download the `Sonic Pi` program and install it.
 
-Next, run Sonic Pi. Try loading `bolero.rb`. Press `run`. It should sound like [Boléro (Maurice Ravel, 1928)](https://en.wikipedia.org/wiki/Bol%C3%A9ro).
+Next, run Sonic Pi. Try loading `bolero.rb`. Press `run`. It should sound like [Boléro (Maurice Ravel, 1928)](https://en.wikipedia.org/wiki/Bol%C3%A9ro). I made a simple recording of it in `bolero.mp3`.
 
 If it works then try `hamr_3.rb`. Change the line `File.open(ENV['HOME']+"/Desktop/HAMR_hackathon/near_far_scene_data.txt")` to use the file name you want to use.
 
